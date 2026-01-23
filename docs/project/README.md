@@ -7,7 +7,10 @@ This folder contains the final project presentations used for evaluation and ora
 
 These slides summarize:
 - Project evolution
+- Project objectives and mission definition
+- Mechanical, electronic, and software design choices
 - Technical decisions
-- Key challenges
+- Navigation, SLAM, and manipulation development
 - Final simulation results
-- Roadmap for future work
+- Simulation results and technical challenges
+- Identified limitations and Roadmap for future work
